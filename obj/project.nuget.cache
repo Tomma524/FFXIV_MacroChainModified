@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BcKevbqFHVJ2R0QXjRM7pvxY7zsaEqaW3IolsNTJRwkC1BtKRB6JoN+CnmISPcQmqd8OhTlnd9vPEhtYG2JSNg==",
+  "success": true,
+  "projectFilePath": "E:\\FF14_Mod\\MacroChain-modify\\original\\MacroChain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\st133\\.nuget\\packages\\dalamudpackager\\2.1.10\\dalamudpackager.2.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

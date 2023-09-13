@@ -47,11 +47,11 @@
   "project": {
     "version": "2.1.0.5",
     "restore": {
-      "projectUniqueName": "E:\\FF14_Mod\\MacroChain-modify\\original\\MacroChain.csproj",
+      "projectUniqueName": "e:\\FF14_Mod\\MacroChain-modify\\trial\\MacroChain.csproj",
       "projectName": "MacroChain",
-      "projectPath": "E:\\FF14_Mod\\MacroChain-modify\\original\\MacroChain.csproj",
+      "projectPath": "e:\\FF14_Mod\\MacroChain-modify\\trial\\MacroChain.csproj",
       "packagesPath": "C:\\Users\\st133\\.nuget\\packages\\",
-      "outputPath": "E:\\FF14_Mod\\MacroChain-modify\\original\\obj\\",
+      "outputPath": "e:\\FF14_Mod\\MacroChain-modify\\trial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\st133\\AppData\\Roaming\\NuGet\\NuGet.Config"

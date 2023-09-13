@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MacroChain</id>
+    <version>2.1.0.5</version>
+    <authors>MacroChain</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0-windows7.0">
+        <dependency id="DalamudPackager" version="2.1.10" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\FF14_Mod\MacroChain-modify\trial\bin\x64\Debug\MacroChain.dll" target="lib\net7.0-windows7.0\MacroChain.dll" />
+  </files>
+</package>

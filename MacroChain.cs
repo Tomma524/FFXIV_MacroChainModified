@@ -13,8 +13,8 @@ using Dalamud.Plugin;
 using FFXIVClientStructs.FFXIV.Client.UI.Misc;
 using FFXIVClientStructs.FFXIV.Client.UI.Shell;
 
-namespace MacroChain {
-    public sealed unsafe class MacroChain : IDalamudPlugin {
+namespace MacroChainVerToma {
+    public sealed unsafe class MacroChainVerToma : IDalamudPlugin {
 
         [PluginService] public static CommandManager CommandManager { get; private set; } = null!;
         [PluginService] public static Framework Framework { get; private set; } = null!;
@@ -22,13 +22,13 @@ namespace MacroChain {
         [PluginService] public static ClientState ClientState { get; private set; } = null!;
         [PluginService] public static ChatGui Chat { get; private set; } = null!;
 
-        public string Name => "Macro Chain";
+        public string Name => "Macro Chain Version Toma";
 
         private delegate void MacroCallDelegate(RaptureShellModule* raptureShellModule, RaptureMacroModule.Macro* macro);
 
         private Hook<MacroCallDelegate> macroCallHook;
         
-        public MacroChain() {
+        public MacroChainVerToma() {
             macroCallHook = Hook<MacroCallDelegate>.FromAddress(new IntPtr(RaptureShellModule.MemberFunctionPointers.ExecuteMacro), MacroCallDetour);
             macroCallHook?.Enable();
 

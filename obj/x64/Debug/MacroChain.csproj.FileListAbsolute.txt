@@ -1,15 +1,3 @@
-E:\FF14_Mod\MacroChain-modify\original\bin\x64\Debug\MacroChain.deps.json
-E:\FF14_Mod\MacroChain-modify\original\bin\x64\Debug\MacroChain.dll
-E:\FF14_Mod\MacroChain-modify\original\bin\x64\Debug\MacroChain.pdb
-E:\FF14_Mod\MacroChain-modify\original\obj\x64\Debug\MacroChain.csproj.AssemblyReference.cache
-E:\FF14_Mod\MacroChain-modify\original\obj\x64\Debug\MacroChain.GeneratedMSBuildEditorConfig.editorconfig
-E:\FF14_Mod\MacroChain-modify\original\obj\x64\Debug\MacroChain.AssemblyInfoInputs.cache
-E:\FF14_Mod\MacroChain-modify\original\obj\x64\Debug\MacroChain.AssemblyInfo.cs
-E:\FF14_Mod\MacroChain-modify\original\obj\x64\Debug\MacroChain.csproj.CoreCompileInputs.cache
-E:\FF14_Mod\MacroChain-modify\original\obj\x64\Debug\MacroChain.dll
-E:\FF14_Mod\MacroChain-modify\original\obj\x64\Debug\refint\MacroChain.dll
-E:\FF14_Mod\MacroChain-modify\original\obj\x64\Debug\MacroChain.pdb
-E:\FF14_Mod\MacroChain-modify\original\obj\x64\Debug\ref\MacroChain.dll
 E:\FF14_Mod\MacroChain-modify\trial\bin\x64\Debug\MacroChain.deps.json
 E:\FF14_Mod\MacroChain-modify\trial\bin\x64\Debug\MacroChain.dll
 E:\FF14_Mod\MacroChain-modify\trial\bin\x64\Debug\MacroChain.pdb
